@@ -1,23 +1,25 @@
-# 🌞Hava Durumu Uygulaması
+# 🌞Weather Application
 
-Bu uygulama, kullanıcıların hava durumunu aramak ve görsel olarak görüntülemek için tasarlanmıştır.
+This application is designed for users to search for and visually view the weather conditions.
 
-## ❓ Nasıl Kullanılır
+## ❓ How to Use
 
-1. Arama kutusuna bir şehir/ülke adı yazın.
-2. Arama simgesine tıklayın.
-3. Hava durumu bilgileri ve görsel görüntülenir.
-## :computer:Kullanılan Teknolojiler
+1. Enter a city/country name into the search box.
+2. Click on the search icon.
+3. Weather information and visuals will be displayed.
+
+## :computer:Technologies Used
 
 - React
 - CSS
 - OpenWeatherMap API
 
-## 📁Önemli Dosyalar ve Klasörler
+## 📁Important Files and Folders
 
-- `WeatherApp.js`: Ana uygulama bileşeni
-- `WeatherApp.css`: Uygulama için CSS dosyası
-- `Assets`: Uygulama için kullanılan görseller
-## :camera: Ekran Görüntüsü
-![Uygulama Ekran Görüntüsü](https://github.com/aycaoktay/weather-app/blob/main/weatherapp/screenshots/weatherapp.png)
-![Uygulama Ekran Görüntüsü](https://github.com/aycaoktay/weather-app/blob/main/weatherapp/screenshots/searching.png)
+- `WeatherApp.js`: Main application component
+- `WeatherApp.css`: CSS file for the application
+- `Assets`: Images used in the application
+
+## :camera:Screenshot
+![Application Screenshot](https://github.com/aycaoktay/weather-app/blob/main/weatherapp/screenshots/weatherapp.png)
+![Application Screenshot](https://github.com/aycaoktay/weather-app/blob/main/weatherapp/screenshots/searching.png)
